@@ -20,7 +20,7 @@
 
 
 
-![alt text](screenshots/put_delete.png)
+![alt text](screenshots/react_django.png)
 
 
 
