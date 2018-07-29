@@ -1,9 +1,9 @@
 ## Django REST Framework backend + React frontend 
 
-` activate virtual environment ` 
+` activate virtual environment (if it's already in your path) - cd backend-django && venv/bin/activate  ` 
 
 
-` Django - cd backend-django && pip install djangorestframework django-cors-headers && python manage.py createsuperuser &&  python manage.py runserver `
+` Django - cd backend-django && pip install django djangorestframework django-cors-headers && python manage.py createsuperuser &&  python manage.py runserver `
 
 
 
